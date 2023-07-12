@@ -10,6 +10,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body theme={"light"}>
         <Provider>
+          <h1>testando</h1>
           {children}
         </Provider>
       </body>
